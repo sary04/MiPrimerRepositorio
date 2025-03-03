@@ -11,6 +11,15 @@
        <h1>Modificacion de contenido html</h1>
         <p>Estamos realizando una modificacion de un archivo HTML</p>
         <p>hola mi nombre es sary</p>
+<h2>Elige una fruta</h2>
+        <p>Fresa</p>
+        <p>Uvas</p>
+        <p>Kiwi</p>
+        <h3>Elige un modelo de auto</h3>
+        <p>mazda cx-3</p>
+        <p>honda</p>
+        <p>lexus</p>
+        
 
     </body>
     </html>
